@@ -1,7 +1,4 @@
-/**//By Thomas [T.K.O] need help discord.gg/rDxWpXb / ts.tko-gameserver.de /
- * Created with Exile Mod 3DEN Plugin
- * www.exilemod.com
- */
+//By Thomas [T.K.O] need help discord.gg/rDxWpXb / ts.tko-gameserver.de /
 // Load Status Bar
 [] execVM "Custom\StatusBar\statusBar_init.sqf";
 if (!hasInterface || isServer) exitWith {};
